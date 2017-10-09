@@ -8,6 +8,6 @@
         "webtasks"
     ],
     "devDependencies": {
-      "@webtask/serverless-webtasks": "^1.0.1"
+        "@webtask/serverless-webtasks": "^1.0.1"
     }
-  }
+}
